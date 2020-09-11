@@ -15,17 +15,23 @@ with open('buzzers.csv') as data:
 pprint.pprint(flights)
 print()
 
+# require 1
 # dict comprehension
-flights3 = {convert2ampm(k): v.title() 
+flights2 = {convert2ampm(k): v.title() 
             for k, v in flights.items() 
-            if v == 'FREEPORT'}
-pprint.pprint(flights3)
+        }
+pprint.pprint(flights2)
 print()
 
-# list comprehension
-flight_times2 = [convert2ampm(ft) for ft in flights.keys()]
-print(flight_times2)
-print()
+# require 2
+when = {dest: [k for k, v in flights2.items() if v == dest] for dest in set(flights2.values())}
+pprint.pprint(when)
+
+
+
+
+
+
 
 
 
