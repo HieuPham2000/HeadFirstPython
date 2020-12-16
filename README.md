@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.5. Phản hồi kiến nghị](#25-Phản-hồi-kiến-nghị)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.6. Thống kê kiến nghị](#26-Thống-kê-kiến-nghị)   
 [3. Hướng dẫn cài đặt](#3)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1 Cài đặt NodeJs](#3.1)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3-1 Cài đặt Node.js](#31-Cài-đặt-Nodejs)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.2 Cài đặt dependences](#3.2)   
 [4. Chạy chương trình](#3-Chạy-chương-trình)
 
@@ -61,14 +61,17 @@ Cho phép người dùng lựa chọn đăng nhập với tư cách "Người d�
 </p>
 
 ## 3. Hướng dẫn cài đặt
-### 3.1. Cài nodejs đối với hệ điều hành phù hợp
-[Tại đây](https://nodejs.org/en/download/)
-### 3.2. Tải các dependences cần thiết
-```bassh
+### 3.1. Cài đặt Node.js
+Tải Node.js [tại đây](https://nodejs.org/en/download/)
+
+### 3.2. Tải và cài đặt các dependences cần thiết
+Đơn giản chỉ cần gõ:
+```bash
 npm install
 ```
 ## 3. Chạy chương trình
+Gõ lệnh:
 ```bash
 npm run start
 ```
-Mở browser truy cập vào http://localhost:8080/
+Mở browser và truy cập vào http://localhost:8080/
