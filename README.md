@@ -9,9 +9,9 @@
 ## Mục lục
 [1. Lý do chọn đề tài](#1-Lý-do-chọn-đề-tài)  
 [2. Tính năng chính](#2-Tính-năng-chính)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Đăng nhập](#2.1.-Đăng-nhập)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Gửi kiến nghị - phản ánh mới](#2.2.-Gửi-kiến-nghị-phản-ánh-mới)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Xem danh sách kiến nghị đã gửi](#2.3.-Xem-danh-sách-kiến-nghị-đã-gửi)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Đăng nhập](#2.1-Đăng-nhập)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Gửi kiến nghị - phản ánh mới](#2.2-Gửi-kiến-nghị-phản-ánh-mới)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Xem danh sách kiến nghị đã gửi](#2.3-Xem-danh-sách-kiến-nghị-đã-gửi)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.4. Xem phản hồi từ tổ trưởng](##2.4)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.5. Phản hồi kiến nghị](##2.5)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.6. Thống kê kiến nghị](##2.6)   
