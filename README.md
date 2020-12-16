@@ -27,37 +27,37 @@ Tại mỗi khu dân cư, tổ dân phố, hàng ngày đều có rất nhiều 
 ### 2.1. Đăng nhập
 Cho phép người dùng lựa chọn đăng nhập với tư cách "Người dân" hoặc "Tổ trưởng"
 <p align="center">
-  <img src="https://ibb.co/D1r5g8m" width=600><br>
+  <img src="https://i.ibb.co/MP81wrV/sign-in-user.png" width=600><br>
   Đăng nhập dành cho người dân<br><br>
 </p>
 <p align="center">
-  <img src="https://ibb.co/NW1ND5j" width=600><br>
+  <img src="https://i.ibb.co/K5KFzLB/sign-in-admin.png" width=600><br>
   Đăng nhập dành cho tổ trưởng<br><br>
 </p>
 
 ### 2.2. Gửi kiến nghị - phản ánh mới
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1BMrdMMK7oKDrYMi3qlYGSMejakgDOOhr" width=600>
+  <img src="https://i.ibb.co/YR1jJbc/send-new-request.png" width=600>
 </p>
 
 ### 2.3. Xem danh sách kiến nghị đã gửi
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1wIK52s8LdUafl9pDhwRZ4vZy3Pw6RNLm" width=600>
+  <img src="https://i.ibb.co/02sH45d/list-request.png" width=600>
 </p>
 
 ### 2.4. Xem phản hồi từ tổ trưởng
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1-97C2Q2up7VPNejwpvUKdpIYHHLOrgmd" width=600>
+  <img src="https://i.ibb.co/mq5nRTg/feedback.png" width=600>
 </p>
 
 ### 2.5. Phản hồi kiến nghị
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1IdN8b3wLJHh2E77FYw5HmA4vToQsg9GI" width=600>
+  <img src="https://i.ibb.co/C2Cd3m7/feedback-request.png" width=600>
 </p>
 
 ### 2.6. Thống kê kiến nghị
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1OsIkAoy6RKvDOb6FWBaqJCSjhXyC6NL6" width=600>
+  <img src="https://i.ibb.co/hH7gbBS/statistic.png" width=800>
 </p>
 
 ## 3. Hướng dẫn cài đặt
