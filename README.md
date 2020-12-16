@@ -58,6 +58,7 @@ Cho phép người dùng lựa chọn đăng nhập với tư cách "Người d�
 ### 2.6. Thống kê kiến nghị
 <p align="center">
   <img src="https://i.ibb.co/hH7gbBS/statistic.png" width=800>
+  <img src="https://www.linkpicture.com/q/statistic.png" width=800>
 </p>
 
 ## 3. Hướng dẫn cài đặt
