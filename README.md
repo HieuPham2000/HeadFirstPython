@@ -27,37 +27,36 @@ Tại mỗi khu dân cư, tổ dân phố, hàng ngày đều có rất nhiều 
 ### 2.1. Đăng nhập
 Cho phép người dùng lựa chọn đăng nhập với tư cách "Người dân" hoặc "Tổ trưởng"
 <p align="center">
-  <img src="https://i.ibb.co/MP81wrV/sign-in-user.png" width=600><br>
+  <img src="https://www.linkpicture.com/q/sign-in-user.png" width=800><br>
   Đăng nhập dành cho người dân<br><br>
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/K5KFzLB/sign-in-admin.png" width=600><br>
+  <img src="https://www.linkpicture.com/q/sign-in-admin.png" width=800><br>
   Đăng nhập dành cho tổ trưởng<br><br>
 </p>
 
 ### 2.2. Gửi kiến nghị - phản ánh mới
 <p align="center">
-  <img src="https://i.ibb.co/YR1jJbc/send-new-request.png" width=600>
+  <img src="https://www.linkpicture.com/q/send-new-request.png" width=800>
 </p>
 
 ### 2.3. Xem danh sách kiến nghị đã gửi
 <p align="center">
-  <img src="https://i.ibb.co/02sH45d/list-request.png" width=600>
+  <img src="https://www.linkpicture.com/q/list-request.png" width=800>
 </p>
 
 ### 2.4. Xem phản hồi từ tổ trưởng
 <p align="center">
-  <img src="https://i.ibb.co/mq5nRTg/feedback.png" width=600>
+  <img src="https://www.linkpicture.com/q/feedback.png" width=800>
 </p>
 
 ### 2.5. Phản hồi kiến nghị
 <p align="center">
-  <img src="https://i.ibb.co/C2Cd3m7/feedback-request.png" width=600>
+  <img src="https://www.linkpicture.com/q/feedback-request.png" width=800>
 </p>
 
 ### 2.6. Thống kê kiến nghị
 <p align="center">
-  <img src="https://i.ibb.co/hH7gbBS/statistic.png" width=800>
   <img src="https://www.linkpicture.com/q/statistic.png" width=800>
 </p>
 
