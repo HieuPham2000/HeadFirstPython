@@ -10,8 +10,8 @@
 [1. Lý do chọn đề tài](#1-Lý-do-chọn-đề-tài)  
 [2. Tính năng chính](#2-Tính-năng-chính)    
 [3. Hướng dẫn cài đặt](#3)   
-[   3.1 Cài đặt NodeJs](#3.1)   
-[   3.2 Cài đặt dependences](#3.2)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1 Cài đặt NodeJs](#3.1)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.2 Cài đặt dependences](#3.2)   
 [4. Chạy chương trình](#3-Chạy-chương-trình)
 
 ## 1. Lý do chọn đề tài  
@@ -21,12 +21,13 @@ Tại mỗi khu dân cư, tổ dân phố, hàng ngày đều có rất nhiều 
 ### 2.1. Đăng nhập
 Cho phép người dùng lựa chọn đăng nhập với tư cách "Người dân" hoặc "Tổ trưởng"
 <p align="center">
-<img src="https://drive.google.com/uc?id=1ZZGOzOkNGuarjv8XBuLBpGA4QXPZSK1n" width=600> 
-<p align="center">Đăng nhập dành cho người dân</p>
-  
-<img src="https://drive.google.com/uc?id=1_ekuq5hPd-ZyhCbxp6Z-tVolUY_6HKv3" width=600>\n 
-<p align="center">Đăng nhập dành cho tổ trưởng</p>
+  <img src="https://drive.google.com/uc?id=1ZZGOzOkNGuarjv8XBuLBpGA4QXPZSK1n" width=600><br>
+  Đăng nhập dành cho người dân<br><br>
+  <img src="https://drive.google.com/uc?id=1_ekuq5hPd-ZyhCbxp6Z-tVolUY_6HKv3" width=600>
+  Đăng nhập dành cho tổ trưởng<br><br>
 </p>
+
+
 
 
 
