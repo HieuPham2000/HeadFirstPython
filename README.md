@@ -21,8 +21,11 @@ Tại mỗi khu dân cư, tổ dân phố, hàng ngày đều có rất nhiều 
 ### 2.1. Đăng nhập
 Cho phép người dùng lựa chọn đăng nhập với tư cách "Người dân" hoặc "Tổ trưởng"
 <p align="center">
-<img src="https://drive.google.com/uc?id=1ZZGOzOkNGuarjv8XBuLBpGA4QXPZSK1n" width=400 height=200>
-<img src="https://drive.google.com/uc?id=1_ekuq5hPd-ZyhCbxp6Z-tVolUY_6HKv3" width=400 height=200>
+<img src="https://drive.google.com/uc?id=1ZZGOzOkNGuarjv8XBuLBpGA4QXPZSK1n" width=600> 
+<p align="center">Đăng nhập dành cho người dân</p>
+  
+<img src="https://drive.google.com/uc?id=1_ekuq5hPd-ZyhCbxp6Z-tVolUY_6HKv3" width=600>\n 
+<p align="center">Đăng nhập dành cho tổ trưởng</p>
 </p>
 
 
