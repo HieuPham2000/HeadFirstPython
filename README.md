@@ -1,5 +1,6 @@
 
 # Bài tập lớn Nhập môn Công nghệ phần mềm - Nhóm 18
+
 ## Ứng dụng web: Hệ thống quản lý kiến nghị, phản ánh  
 - Với người dân, ứng dụng cho phép gửi kiến nghị và xem phản hồi dễ dàng, nhanh chóng 
 - Với tổ trưởng, ứng dụng giúp tiếp nhận, giải quyết và phản hồi kiến nghị hiệu quả và nhanh chóng hơn, ngoài ra cho phép thống kê số lượng kiến nghị theo trạng thái giải quyết. 
@@ -7,10 +8,10 @@
 
 ## Mục lục
 [1. Lý do chọn đề tài](#1-Lý-do-chọn-đề-tài)  
-[2. Tính năng](#2-Tính-năng)    
-[3. Hướng dẫn cài đặt](#3) 
-[   3.1 Cài đặt NodeJs](#3.1) 
-[   3.2 Cài đặt dependences](#3.2) 
+[2. Tính năng chính](#2-Tính-năng-chính)    
+[3. Hướng dẫn cài đặt](#3)   
+[   3.1 Cài đặt NodeJs](#3.1)   
+[   3.2 Cài đặt dependences](#3.2)   
 [4. Chạy chương trình](#3-Chạy-chương-trình)
 
 ## 1. Lý do chọn đề tài  
@@ -20,7 +21,9 @@ Tại mỗi khu dân cư, tổ dân phố, hàng ngày đều có rất nhiều 
 ### 2.1. Đăng nhập
 Cho phép người dùng lựa chọn đăng nhập với tư cách "Người dân" hoặc "Tổ trưởng"
 <p align="center">
-<img src="https://drive.google.com/file/d/1ZZGOzOkNGuarjv8XBuLBpGA4QXPZSK1n/view?usp=sharing" width=676 height=450> </p>
+<img src="https://drive.google.com/uc?id=1ZZGOzOkNGuarjv8XBuLBpGA4QXPZSK1n" width=400 height=200>
+<img src="https://drive.google.com/uc?id=1_ekuq5hPd-ZyhCbxp6Z-tVolUY_6HKv3" width=400 height=200>
+</p>
 
 
 
