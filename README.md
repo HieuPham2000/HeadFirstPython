@@ -8,7 +8,13 @@
 
 ## Mục lục
 [1. Lý do chọn đề tài](#1-Lý-do-chọn-đề-tài)  
-[2. Tính năng chính](#2-Tính-năng-chính)    
+[2. Tính năng chính](#2-Tính-năng-chính)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Đăng nhập](#2.1-Đăng-nhập)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Gửi kiến nghị - phản ánh mới](#2.2-Gửi-kiến-nghị-phản-ánh-mới)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Xem danh sách kiến nghị đã gửi](#2.3)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.4. Xem phản hồi từ tổ trưởng](#2.4)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.5. Phản hồi kiến nghị](#2.5)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.6. Thống kê kiến nghị](#2.6)   
 [3. Hướng dẫn cài đặt](#3)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1 Cài đặt NodeJs](#3.1)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.2 Cài đặt dependences](#3.2)   
@@ -23,13 +29,31 @@ Cho phép người dùng lựa chọn đăng nhập với tư cách "Người d�
 <p align="center">
   <img src="https://drive.google.com/uc?id=1ZZGOzOkNGuarjv8XBuLBpGA4QXPZSK1n" width=600><br>
   Đăng nhập dành cho người dân<br><br>
-  <img src="https://drive.google.com/uc?id=1_ekuq5hPd-ZyhCbxp6Z-tVolUY_6HKv3" width=600>
+</p>
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1_ekuq5hPd-ZyhCbxp6Z-tVolUY_6HKv3" width=600><br>
   Đăng nhập dành cho tổ trưởng<br><br>
 </p>
-
-
-
-
+### 2.2. Gửi kiến nghị - phản ánh mới
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1BMrdMMK7oKDrYMi3qlYGSMejakgDOOhr" width=600>
+</p>
+### 2.3. Xem danh sách kiến nghị đã gửi
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1wIK52s8LdUafl9pDhwRZ4vZy3Pw6RNLm" width=600>
+</p>
+### 2.4. Xem phản hồi từ tổ trưởng
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1-97C2Q2up7VPNejwpvUKdpIYHHLOrgmd" width=600>
+</p>
+### 2.5. Phản hồi kiến nghị
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1IdN8b3wLJHh2E77FYw5HmA4vToQsg9GI" width=600>
+</p>
+### 2.6. Thống kê kiến nghị
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1OsIkAoy6RKvDOb6FWBaqJCSjhXyC6NL6" width=600>
+</p>
 
 ## 3. Hướng dẫn cài đặt
 ### 3.1. Cài nodejs đối với hệ điều hành phù hợp
